@@ -1,6 +1,6 @@
 {
   "name": "fatima_zohra_simple_calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "here we build a calculator by using typescript, node.js, inquirer .",
   "main": "index.js",
   "type": "module",
