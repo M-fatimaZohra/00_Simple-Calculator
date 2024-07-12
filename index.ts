@@ -10,7 +10,7 @@ const calculator = await inquirer.prompt([
 
   {
     name: `SecondNo`,
-    message: `for calculations, enter the second number`,
+    message: `for calculation, enter the second number`,
     type: `number`,
   },
 
